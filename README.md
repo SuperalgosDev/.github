@@ -1,4 +1,4 @@
-# Superalgos — Offline Setup Guide
+# Superalgos — Offline Setup Assistant
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 
